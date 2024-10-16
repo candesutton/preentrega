@@ -33,7 +33,7 @@ export default function Home() {
       </h3>
       <img src="/losquefaltan-06.svg" alt="Visualización 06" className="w-[300px] h-auto mb-0 mt-0" />
 
-      <p className="text-2xl mt-20 mb-0 text-customBlue font-bold self-start ml-auto text-right">
+      <p className="text-2xl mt-20 mb-0 text-black font-bold self-start">
     Proyección de área terrenal de una ciudad costera a través de los años
       </p>
 
