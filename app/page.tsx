@@ -7,14 +7,14 @@ export default function Home() {
   return (
     <main className="flex flex-col min-h-screen items-start justify-start p-24 bg-white">
       
-      <h6 className="text-8xl mt-20 mb-20 text-black text-left self-start">
+      <h6 className="text-8xl mt-40 mb-60 text-black text-left self-start">
   El <strong className="font-bold">cambio climático</strong> y<br /> 
   la amenaza frente<br />
   a las ciudades costeras
 </h6>
 
 
-      <h5 className="text-2xl mt-20 mb-0 text-black font-bold self-start">Paleta de colores</h5>
+      <h5 className="text-2xl mt-60 mb-0 text-black font-bold self-start">Paleta de colores</h5>
       <img src="/losquefaltan-03.svg" alt="Visualización 03" className="w-[400px] h-auto mb-0 mt-0" />
 
 
