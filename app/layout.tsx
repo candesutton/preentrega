@@ -20,7 +20,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter3.className} bg-[url('/fondo_blanco.svg')] bg-cover`}>
+      <body className={`${inter3.className} bg-[url('/Fondo_blanco.svg')] bg-cover`}>
         {children}
       </body>
     </html>
