@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 376 109">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2 {
+        fill: #000;
+        font-family: Montserrat-Regular, Montserrat;
+        font-size: 9px;
+      }
+
+      .cls-3 {
+        fill: #a1d7e5;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        fill: #d9d9d9;
+      }
+
+      .cls-5 {
+        fill: #006e8e;
+      }
+
+      .cls-6 {
+        fill: #05a1d7;
+      }
+    </style>
+  </defs>
+  <circle class="cls-5" cx="43.5" cy="46.5" r="38.5"/>
+  <circle class="cls-3" cx="138.5" cy="46.5" r="38.5"/>
+  <circle class="cls-6" cx="233.5" cy="46.5" r="38.5"/>
+  <circle class="cls-4" cx="328.5" cy="46.5" r="38.5"/>
+  <text class="cls-2" transform="translate(19.22 106.3)"><tspan x="0" y="0">#006</tspan><tspan class="cls-7" x="23.66" y="0">E</tspan><tspan x="29.61" y="0">8E</tspan></text>
+  <text class="cls-2" transform="translate(117.56 106.84)"><tspan x="0" y="0">#</tspan><tspan class="cls-1" x="6.26" y="0">A</tspan><tspan x="12.35" y="0">1D7</tspan><tspan class="cls-8" x="28.33" y="0">E</tspan><tspan x="34.28" y="0">5</tspan></text>
+  <text class="cls-2" transform="translate(212.82 106.37)"><tspan x="0" y="0">#05</tspan><tspan class="cls-1" x="17.32" y="0">A</tspan><tspan x="23.4" y="0">1D7</tspan></text>
+  <text class="cls-2" transform="translate(304.5 105.54)"><tspan x="0" y="0">#D9D9D9</tspan></text>
+</svg>

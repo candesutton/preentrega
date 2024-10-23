@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 165 163">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#New_Gradient_Swatch_1);
+        stroke-width: 0px;
+      }
+    </style>
+    <linearGradient id="New_Gradient_Swatch_1" data-name="New Gradient Swatch 1" x1="7.68" y1="79.44" x2="156.98" y2="79.44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2f2f2"/>
+      <stop offset="1" stop-color="#006e8e"/>
+    </linearGradient>
+  </defs>
+  <g id="_84rjus" data-name="84rjus">
+    <path class="cls-1" d="M156.43,79.38c-3.32-37.06-29.51-74.61-79.99-71.32C44.03,10.92,10.6,46.92,10.6,79.4c0,49.39,34.2,71.12,71.37,74.48-9.8.56-19.35-.88-28.35-4.75-27.01-11.62-42.58-32.23-45.53-61.39C3.94,46.91,32.88,11.09,73.56,5.56,111.96.34,147.91,25.8,155.42,63.74c1.01,5.1,1.07,10.39,1.56,15.59-.18.02-.37.03-.55.05Z"/>
+  </g>
+</svg>
