@@ -5,24 +5,18 @@ import Link from 'next/link';
 
 export default function Home() {
   return (
-    <main className="flex flex-col min-h-screen p-24 bg-white">
+    <main className="flex flex-col min-h-screen p-24">
       
-      <div className="relative w-full h-auto">
-      <img src="/Portada-03.svg" alt="Visualización 00" className="w-full h-auto mb-0 mt-0" />
-      <p className="absolute top-8 left-1/2 transform -translate-x-1/2 text-white text-1xl text-center">LENGUAJE VISUAL</p>
-      <h1 className="text-6xl absolute inset-0 flex flex-col items-center justify-center text-center text-white max-w-xxl mx-auto">
-      EL IMPACTO DEL CAMBIO CLIMÁTICO EN LAS<br />
-      <span className="font-bold">CIUDADES COSTERAS</span>
-      </h1>
-      </div>
+      
+      <p className="text-3xl mb-0 mt-4 text-white font-normal text-center">LENGUAJE VISUAL</p>
+
+      <p className="text-6xl mb-64 mt-96 text-white font-normal text-center">
+      EL IMPACTO DEL CAMBIO CLIMATICO EN LAS <span className="font-bold">CIUDADES COSTERAS</span>
+      </p>
 
 
-   
-    <h1 className="text-4xl mb-0 mt-24 text-black font-bold text-center">PALETA DE COLORES</h1>
-    <img src="/paleta.svg" alt="Visualización 01" className="w-[500px] h-auto mb-0 mt-16 mx-auto" />
-
-
-
+      <h1 className="text-4xl mb-0 mt-24 text-black font-bold text-center">PALETA DE COLORES</h1>
+      <img src="/paleta.svg" alt="Visualización 01" className="w-[500px] h-auto mb-0 mt-16 mx-auto" />
 
 
       <h2 className="text-4xl mt-40 mb-0 text-black font-bold text-center">FORMA PRINCIPAL</h2>

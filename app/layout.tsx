@@ -1,13 +1,12 @@
 import type { Metadata } from "next";
 import { Roboto } from "next/font/google";
 import { Krona_One } from "next/font/google";
-import {Montserrat} from "next/font/google";
+import { Montserrat } from "next/font/google";
 import "./globals.css";
 
 const inter1 = Roboto({ subsets: ["latin"], weight: '400' }); 
 const inter2 = Krona_One({ subsets: ["latin"], weight: '400' }); 
 const inter3 = Montserrat({subsets: ["latin"], weight: ['400', '700']});
-
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -21,8 +20,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter3.className}>{children}</body>
+      <body className={`${inter3.className} bg-[url('/fondo_blanco.svg')] bg-cover`}>
+        {children}
+      </body>
     </html>
   );
-
 }
+
