@@ -3,6 +3,7 @@ import { Roboto } from "next/font/google";
 import { Krona_One } from "next/font/google";
 import { Montserrat } from "next/font/google";
 import "./globals.css";
+import { Providers } from './Providers';
 
 const inter1 = Roboto({ subsets: ["latin"], weight: '400' }); 
 const inter2 = Krona_One({ subsets: ["latin"], weight: '400' }); 
@@ -20,8 +21,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter3.className} bg-[url('/Fondo_blanco.svg')] bg-cover`}>
-        {children}
+      <body className={`${inter3.className} bg-[url('/fondo.svg')] bg-contain`}>
+        <Providers>{children}</Providers>
       </body>
     </html>
   );

@@ -14,7 +14,7 @@ export default function Dataviz2() {
   }, []);
 
   return (
-    <div class="flourish-embed flourish-chart" data-src="visualisation/19370758">
+    <div className="flourish-embed flourish-chart w-full" data-src="visualisation/19370758">
       {/* Fallback en caso de que JS esté deshabilitado */}
       <noscript>
         <img
@@ -26,3 +26,6 @@ export default function Dataviz2() {
     </div>
   );
 }
+
+
+
